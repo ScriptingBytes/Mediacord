@@ -1,0 +1,2 @@
+run this in your terminal:
+npm i discord.js dotenv embed-pagination.js mongodb mongoose
